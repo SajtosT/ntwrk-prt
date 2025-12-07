@@ -1,0 +1,4594 @@
+[
+  {
+    "question": "A CAT6A szabvány maximális sávszélessége 100 méteren 500MHz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT6A szabvány maximális sebessége 100 méteren 1Gb/s.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT5e szabvány maximális sebessége 4 érpáron 1000Mb/s.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT5e szabvány maximális sávszélessége 100 MHz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT6 szabvány maximális sávszélessége 100 méteren 250MHz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT5e szabvány maximális sebessége 4 érpáron 100 Mb/s.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT5e szabvány maximális sebessége 2 érpáron 100 Mb/s.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT6 szabvány maximális sebessége 100 méteren 10 Gb/s.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Cat6 szabvány maximális sebessége 100m-en 1 Gbit.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT6 szabvány maximális sávszélessége 100 méteren 500MHZ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT7 szabvány maximális sebessége 100 méteren 1Gb/s.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CAT7 szabvány maximális sávszélessége 100 méteren 750 MHz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE802.11 szabvány a CSMA/CA protokollt használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE 802.3 szabványba a „Base” szó jelentése „alapvető”.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 802.3 szabvány a vezeték nélküli LAN-okra vonatkozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE 802.10. kód a Virtuális LAN (Virtual LAN -VLAN) kódja",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Virtuális LAN (Virtual LAN - VLAN) IEEE kódja a 802.10.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE 802.11 három féle keretosztállyal dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE802.11 adatkeretében a keretvezérlés 11 almezőből áll.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE802.11 adatkeretében két cím szerepel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 802.11 szabvány az Ethernet-re vonatkozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IEEE802.11 szabvány a CSMA/CD protokollt használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-I kódolás alapja az NRZ-L jel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-I kódolás alapja az NRZ-M jel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-I kódolást az USB szabvány használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-S kódolást az USB szabvány használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NR2-S kódolást a USB szabvány használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-L értéke csak 1 -ről 0-ra történő jelváltás után változik meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-L értéke minden jelváltás után megváltozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-M értéke csak 1 -ről 0-ra történő jelváltás után változik meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-M értéke minden jelváltás után megváltozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-M kódolást az USB szabvány használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-S értéke minden jelváltás után megváltozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NRZ-S értéke csak 1-ről 0-ra történő jelváltás után változik meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az Ethernet hálózat NRZ-L kódolást használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az Ethernet hálózat NRZ-S kódolást használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MIMO párhuzamos csatornákkal növeli a sebességet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MIMO védettsége gyenge a visszaverődésekkel szemben.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MIMO tulajdonképpen az SDMA egyfajta kiterjesztése.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A QSS és a WPS kényelmi funkciókat szolgál.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A QSS és a WPS növeli a rendszer védettségét.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A leghosszabb rádióhullámok képesek követni a föld görbületét.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A rövidhullámok képesek követni a föld görbületét.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A rövidhullám visszaverődik az ionoszféráról.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A mikrohullám visszaverődik az ionoszféráról.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A mikrohullámok jól irányíthatóak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A WEP titkosítás b/g/n szabványoknak egyaránt része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A WEP az „n” szabványnak már nem része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az AES a WEP2 védelem algoritmusa.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": " Az AES a WPA védelem algoritmusa.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TIKIP a WPA védelem algoritmusa.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A WEP-es védelemre a kéretlen látogatók veszélyt jelentenek.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A WEP-es védelemre a kéretlen látogatók valós veszélyt jelentenek.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4-ben egy hálózat címe mindíg 0 -ra végződik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 datagram maximális mérete 65535 bájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 datagramm maximális mérete kevesebb, mint 65535 bájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 „A” osztály kevesebb hosztot tartalmaz, mint a „C” osztály.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4-ben a broadcast cím mindig 0-ra végződik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4-ben a broadcast cím mindig 1-re végződik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 hálózati maszkban a 0-ás értéket semmiképpen sem követhet 1-es érték.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 fejrész maximális fix hossza 20 bájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 fejrész tartalmaz ellenőrző összeget.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv4 fejrész teljes hossz mezője 16 bites.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A vezérjeles gyűrű nem ütközésmentes.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vezérjeles gyűrű esetén minden hoszt azonos prioritású.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vezérjeles gyűrű esetén az elküldött keret több kört is megtehet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "ALOHA rendszerek esetén a nyugtázó csatornákban is lehet ütközés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "ALOHA rendszerek esetén a nyugtázó csatornában nem fordulhat elő ütközés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ALOHA használ nyugtázást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az egyszerűsített ALOHA rendszer ütközés mentes-e?",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Típus/hossz mező típust jelöl, ha tartalma kisebb egyenlő, mint 0x0600.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A típus/hossz mező típust jelöl, ha tartalma nagyobb, mint 0x0600.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A típus/hossz mező kerethosszt jelöl, ha tartalma kisebb egyenlő, mint 0x0600.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": " A T-568A és T-568B bekötése több mint 50%-ban eltérő.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A „T-568A” és „T-568B” bekötése 50% -ba megegyezik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A hálózati réteg alapvető feladata az útvonalválasztás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A hálózati rétegben csomagok továbbítódnak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az interface-ekre virtuális kommunikáció jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az interface-ekre valódi kommunikáció jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az protokollokra virtuális kommunikáció jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A protokollokra valódi kommunikáció jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A protokoll szabályok halmaza, melyek a „mit” kérdéssel kapcsolatosak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A protokoll a szolgáltatás implementációjának felel meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szolgáltatás a protokoll implementációjának felel meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LLC alréteg felel a csatorna kiosztásáért.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LLC alréteg felel a keretek épségéért.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MAC alréteg felel a keretek épségéért.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gyakorlati modellben a szállítási réteg a hálózati réteg alatt van.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gyakorlati modellben a szállítási réteg a hálózati réteg alatt található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gyakorlati modellben az adatkapcsolati réteg a hálózati réteg alatt található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gyakorlati modellben az adatkapcsolati réteg a fizikai réteg alatt található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gyakorlati modellben az adatkapcsolati réteg a hálózati réteg felett található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A hálózati réteg alapvető feladata az útvonalválasztás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szállítási réteg csomagokat továbbít.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szállítási rétegben szegmensek továbbítódnak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szállítási rétegben keretek továbbítódnak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szállítási réteg a feladatát az alatta lévő rétegek kialakításától függően végzi.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A hálózati rétegben keretek továbbítódnak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az internet réteg az OSI modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A viszonyréteg az OSI modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A megjelenítési réteg az OSI modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A megjelenítési réteg a(z) TCP/IP modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kapcsolati réteg az OSI modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kapcsolat réteg az OSI modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati réteg nem végez forgalomszabályozást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati rétegben nincs forgalomszabályzás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati réteg a szegmenseket továbbítja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati rétegben csomagok továbbítódnak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati réteg egyik feladata a forgalomszabályozás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati réteg nem végez forgalomszabályozást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adatkapcsolati rétegnek nem a keretezés a fő feladata.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A keret réteg fő funkciója az időszinkronizáció.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A keret előtag 7 bájt hosszú.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A keret előtag 8 bájt hosszú.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A keret előtag fő funkciója az időszinkronizáció.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy Switch-ekkel összekapcsolt hálózatban nem fordulhat elő ütközés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A switch IP címek segítségével dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Switch MAC címek segítségével dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A switcheknek nem kell ismerni a hálózati réteg protokollját a routernek viszont ismernie kell azt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Switch összeállítja a csomagot a keretekből és a csomagban lévő IP címet használja a cél hoszt meghatározásásra.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 0G mobil hálózat jellemzője az automatikus hívásindítás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 0G mobilhálózat tisztán analóg megoldású.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1G mobilhálózat részben digitális megoldású.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1G digitális rendszer.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1G mobilhálózat nem támogatja az automatikus hívásátadást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 2G mobilhálózat részben digitális megoldású.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 2G mobilhálózat teljesen digitális megoldású.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "2,5 G mobilhálózat része UMTS.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "2.5G mobilhálózat része a WAP és az EDGE.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 3G mobil hálózat része a WiMax.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 3G mobil hálózatnak nem része a WCDMA.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 4G mobilhálózat része a WiMAX.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 4G mobilhálózat része a LTE.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 5G mobilhálózat legfontosabb tulajdonsága a gyors válaszidő és késleltetés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 5G mobilhálózat különböző specifikus frekvenciasávokban azonos feladatokat lát el.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 5G mobilhálózat adatátviteli sebessége a 4G mobilhálózat adatátviteli sebességének akár tízszerese is lehet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Bináris visszaszámlálás protokoll esetén a hostok sorszáma bináris.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris visszaszámlálás protokoll jellemzője a versengési időrés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris visszaszámlálás protokoll a magasabb sorszámú hostoknak kedvez.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris mértékegység rendszer jellemzően memóriaméretre utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris mértékegység rendszer jellemzően háttértár méretére utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A BPDU protokoll alapja a MAC cím.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A BPDU protokoll alapja az IP cím.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A csúszóablakos protokoll tartalmaz önálló nyugtakeretet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A csúszóablakos protokollnak része a Piggy -back technika.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szelektív ismétlő protokoll használ negatív nyugtát is.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Simplex „megáll és vár” protokoll szinkronizációt használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Simplex „megáll és vár” protokoll nem használ nyugtakeretet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Simplex összetett protokoll sorszámozza a kereteket.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Siplemex összetett protokoll nem sorszámozza a kereteket.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UDP egy összeköttetés nélküli protokoll.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UDP protokoll nem az operációs rendszer része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TCP összeköttetés-alapú protokoll.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A megjelenési réteg az TCP/IP modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kapcsolati réteg az TCP/IP modellben található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TCP protokoll az operációs rendszer része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MAC címek nem tartalmaznak lokalizációs információkat.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A DNS időben sokkal az URL után jelent meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A DNS időben sokkal az URL előtt jelent meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az URL tulajdonképpen a DNS szolgáltatásait teszi a felhasználó számára még produktívabbá.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A DNS névhierarchia tetején a gyökérnévszerverek darabszáma folyamatosan növekszik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PAN kisebb hálózatot jelent, mint a MAN.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PAN nagyobb hálózat, mint a LAN.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A LAN kisebb hálózatot jelent, mint a WAN.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A LAN nagyobb hálózatot jelent, mint a WAN.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UDP fejrészben található sürgősségi mutató.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UDP fejrészben kötelező az ellenőrző összeg használata.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A WAN MAN-okból épül fel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vezérjeles algoritmus esetén nem léphet fel túlcsordulás, adatvesztés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A vezérjeles gyűrű ütközésmentes.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A vezérjeles gyűrű esetén a hostok csak a következő hostig juttatják el a keretet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A vezérjeles vödör algoritmus esetén az adatok csak azonos sebességgel távozhatnak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A versenyhelyzetben lévő protokollok nagy terhelésnél teljesítenek jól.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A versenyhelyzetes protokollok kis terhelésnél teljesítenek jól.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A karakterszámlálás egy sérülésvédett keretezési megoldás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A karakterszámlálás nem igényel egyedi fejlécet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A p-perzisztens CSMA szabad csatorna esetén azonnal adni kezd.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A QoS-t hat paraméterrel határozzuk meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy kilobájt több mint egy kibibájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IXP az egyes ISP-ék közötti adatforgalmat biztosítja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "ISP jelentése – Internet Service Provider.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ISP az „internetwork service provider” rövidítése.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ISP az egyes IXP-k közötti adatforgalmat biztosítja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy ISP-n belül nagyszámú POP található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy informatikai mérnök számára a sávszélesség egysége a Hz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy informatikai mérnök számára a sávszélesség egysége a bit/sec.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy villamosmérnök számára a sávszélesség egysége a Hz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy villamosmérnök számára a sávszélesség egysége a bit/sec.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Páros paritás esetén a paritásbit 1, ha a kódszóban az 1-esek száma páratlan.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Páros paritás esetén a paritásbit 0, ha a kódszóban az 1 -esek száma páros.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Páratlan paritás esetén a paritásbit 1, ha a kódszóban az 1-esek száma páros.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Páratlan paritás esetén a paritásbit 0, ha a kódszóban az 1-esek száma páratlan.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A DSSS 11db egymást részben átfedő csatornát használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A DSSS 11db csatornája részben sem fedi át egymást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A DSSS  11 darab csatornája részben se fedi át egymást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A NEXT közelvégi áthallást jelent.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A NEXT távolvégi áthajlást jelent.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PSNEXT a közelvégi áthallás összesített értékét jelenti.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PSNEXT az azonos szintű távolvégi áthallást jelenti.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A nem perzisztens CSMA szabad csatorna esetén azonnal adni kezd.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Manchester kódot NOR művelettel képezzük.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Manchester kódot XOR művelettel képezzük.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A klasszikus Manchester kódolás hatékonyabb, mint a 8B/10B kódolás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Shannon tétel az ideális átviteli csatornával kapcsolatos.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Shannon tétel a zajos átviteli csatornával kapcsolatos.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Nyquist tétel az ideális átviteli csatornával kapcsolatos.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Nyquist tétel a zajos átviteli csatornával kapcsolatos.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Hamming- távolságot egy XOR művelettel számíthatjuk ki.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Hamming-távolság egy NOR művelettel számíthatjuk ki.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 8B/10B kódolás 8 bitenként legalább 3 szintváltást tartalmaz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 8B/10B kódolás 10 bitenként legalább 3 szintváltást tartalmaz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 256-QAM egyetlen jelváltozással 16 bitet kódol.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 256-QAM egyetlen jelváltozással 8 bitet kódol.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LDPC kódolás matematikailag polinomokra épül.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LDPC kódolás esetén a kódolt üzenet hosszabb az eredeti üzenetnél.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LDPC kódolás használatos például a DVB-T2 műholdas rendszerben.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LDPC kódolás használatos például a DVB-S2 műholdas rendszerben.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LDPC kódolásnak jelentős szoftveres erőforrásigénye van.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LDPC kódolásnak nem jelentős a szoftveres erőforrásigénye.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "MODEM: a kifejezés a „modulátor” és „demodulátor” szavakból származik, és  olyan berendezést jelent, ami egy vivőhullám modulációjával az analóg jelet  digitálissá alakítja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A modem célja, hogy a digitális adatot analóg módon átvihetővé tegye.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A modem célja, hogy az analóg adatot digitális módon átvihetővé tegye.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "RNC jelentése „Radio Network Controller”.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Nyugtázott datagram az összeköttetés nélkülire jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Összeköttetés nélküli rendszerre példa a postai levélszolgáltatás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szolgáltatás műveletek halmaza, amelyek a „mit” kérdéssel kapcsolatosak.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A forgalomszabályozás 2 hoszt között értelmezhető fogalom.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A forgalomszabályzás a hálózat egészére értelmezhető fogalom.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TCP fejrészben kötelező az ellenőrző összeg használata.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TCP fejrészében található sürgősségi mutató.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az MSC és a GMSC biztosítja a mobilhálózat és az internet közötti kapcsolatot.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CSMA/CA protokoll ütközés esetén azonnal ismétli az adást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CSMA/CD ütközés érzékelésekor azonnal megszakítja az adást.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CSMA/CD protokoll az adás megkezdése után is figyeli a csatornát.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CSMA vezeték nélküli összeköttetésben hatékonyabb, mint vezetékesben.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IT-ban használt IEC mértékegység alapja a tízes számrendszer.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IT-ban használt IEC mértékegység alapja a kettes számrendszer.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 10 gigabites Ethernet nem használja a CSMA/CD protokollt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 10 gigabites Ethernet a Half- és a Full-Duplex üzemmódot is támogatja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 10 gigabites ethernet 5 különböző jelszintet használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 10 gigabites ethernet 16 különböző jelszintet használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gigabites ethernet 5 különböző jelszintet használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gigabites ethernet 16 különböző jelszintet használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az optikai 10 gigabites Ethernet a 64B/66B kódolást használja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az optikai kábelek a 64B/66B kódolást használják.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy megabájt kevesebb, mint egy mebibájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CIDR az IPv4 merev szabályait oldja fel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CIDR az IPv4-ben rugalmas hoszt kiosztást tesz lehetővé.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CIDR és a NAT is hozzájárult az IPv6 gyorsabb bevezetéséhez.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CIDR és a NAT is hozzájárult az IPv4 címek elfogyásának késleltetéséhez.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv6 fejrészben az ugráskorlát értéke csak ugrásonként csökken 1-el.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv6 fejrész több mezőt tartalmaz, mint az IPv4 fejrész.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv6 fejrész maximális hossza kétszerese az IPv4 fejrész maximális hosszának.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv6 adatmező maximális mérete 65535.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az IPv6 címzési rendszere tartalmazza az IPv4-ben megismert osztályokat.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NDP az IPv6 része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ARP AZ IPv6 protokoll része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kitöltés mező célja a minimális kerethossz elérésének biztosítása.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kitöltés mező hossza minden esetben több mint 0 bájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ICMP protokoll nem képes a hibákról és azok típusáról tájékoztatást adni.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vivőjel érzékelés nélkül nem dönthető el, hogy egy csatorna foglalt-e.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RP illetve az RR a kábel rágcsálók elleni védelmét jelenti.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RP illetve az RR a kábel égésekor felszabaduló gázokra utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az LSOH/LSZH a kábel mechanikai terhelésének jelzése.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Lyukas vödör algoritmus esetén nem léphet fel túlcsordulás, adatvesztés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vezetékes átvitel esetén célszerű a hibadetektálás és az adatismétlés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vezetékes átvitel esetén célszerű a hibajavítás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kapcsolatállapot alapú útválasztás a távolságvektor alapú útválasztást váltotta fel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A távolságvektor alapú útválasztás a kapcsolatállapot alapú útválasztást váltotta fel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UDP protokoll fejrésze összetettebb, mint a TCP protokoll fejrésze.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TCP protokoll fejrésze egyszerűbb, mint az UDP protokoll fejrésze.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UDP egy nem megbízható protokoll, nem garantálja az átvitt adatok megérkezését.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy geostacionárius műholddal fix parabolaantennával kommunikálhatunk.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy geoszinkron műholddal fix parabolaantennával kommunikálhatunk.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Layer 2 switch nem képes az egyes VLAN-ok közötti forgalomirányításra.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Layer 2 Switch képes az egyes VLAN-ok közötti forgalomirányításra.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Reed-Solomon kódolás matematikailag polinomokra épül.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Virtuális áramkör alapú összeköttetés esetében egyszerű a torlódáskezelés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A torlódáskezelés a hálózat egészére értelmezhető fogalom.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris rendszer jellemzően háttértár méretre utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1-perzisztens CSMA nem vizsgálja a csatorna foglaltságát.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris konvolúciós kódok esetébe nincsenek „valamilyen” határok.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bináris konvolúciós kódok esetében nincsenek üzeneti határok.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A helyfoglalásos protokoll nem ütközésmentes.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A helyfoglalásos protokoll permutálja az állomásszámokat.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A helyfoglalós protokoll statikus állomásszámokkal dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A helyfoglalásos protokoll statikus állomásszámokkal dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ethernet fejléc 2 bájttal hosszabb, mint a VLAN fejléc.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A datagram használata az összeköttetés alapú rendszerekre jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Datagramm alapú összeköttetés esetében bonyolult a szolgáltatás minőségének a biztosítása.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az átlátszó darabolás esetén a csomagok egyesítése csak a cél hosztnál történik meg.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A nem átlátszó darabolás esetén a darabolás az egyes hálózatokban függetlenül történik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A nem átlátszó darabolás esetén a csomagok egyesítése minden érintett hálózat elhagyásakor megtörténik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az SSID azonosító egy maximum 32 karakter hosszú szabad választott név.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az Auto Negotation az ütközések elkerülésének egyik megoldása.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az Auto Negotation automatikus sebesség és duplexitás egyeztetést jelent.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Minél kisebb a hullámhossz, annál jobb a tárgyakon való áthaladás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A RIP egy távolságvektor alapú IGP protokoll.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RIP fejrészében található sürgősségi mutató.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Bridge MAC címek segítségével dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Bridge IP címek segítségével dolgozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az adaptív forgalomirányító eljárások alkalmazkodnak a hálózati forgalomhoz és a topológiához.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alagút átvitel olyan módon áll össze két hálózat között, hogy azok a köztük lévő hálózat(ok) hosztjait nem is érhetik el.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RTP fejrészében található a sürgősségi mutató.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RTP protokoll az UDP protokollra épül.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RTP protokoll az operációs rendszer része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RTP protokoll nem az operációs rendszer része.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A NAT címfordítás a LAN és a WAN hálózat között történik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az FTP egy nem megbízható protokoll, nem garantálja az átvitt adatok megérkezését.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az FTP egy megbízható protokoll, garantálja az átvitt adatok megérkezését.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az STP támadása esetén az aktuális gyökér MAC címénél kisebb cím hálózatba juttatása a cél.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Virtuális áramkör alapú összeköttetés esetében egyszerű a torlódáskezelés.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy terrabájt kevesebb, mint egy tebibájt.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Congestion jelentése: Torlódás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Congestion jelentése: Forgalomszabályzás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Összeköttetés nélküli rendszerekben minimum hat szolgáltatási primitív kell.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Összeköttetés alapú rendszerekben minimum hat szolgáltatási primitív kell.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1000Base-T-ben a T a sodrott érpárt jelöli.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "1000Base-T a „T” az fény kábelre utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1000Base-T maximális átviteli sebessége 1 Gbit.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az 1000Base-T maximális átviteli sebessége 100 Mbit.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Jellemzően kis távolságok áthidalására használnak optikai kábeleket.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A decimális alapú mértékegység rendszer jellemzően memóriaméretre utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A decimális alapú mértékegység rendszer jellemzően háttértár méretre utal.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Rekurzív kérés esetén a DNS szerver teljes mértékben megválaszolja a kérést vagy hibajelzést ad.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Visszalépés „n”-el protokoll például a műholdas technikában használatos.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "OFDM a nagy sebességű jelfolyamot több kisebb sebességűre bontja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az USB kódolás alapja az NRZ-M.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  }
+]
