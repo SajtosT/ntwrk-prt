@@ -1460,11 +1460,11 @@
     "options": [
       {
         "text": "Igaz",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Hamis",
-        "correct": false
+        "correct": true
       }
     ],
     "explanation": ""
